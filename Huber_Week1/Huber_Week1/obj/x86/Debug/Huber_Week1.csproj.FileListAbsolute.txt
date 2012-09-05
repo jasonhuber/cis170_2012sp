@@ -1,0 +1,5 @@
+C:\Users\Jason\Dropbox\Devry\CIS170Sept12\Huber_Week1\Huber_Week1\bin\Debug\Huber_Week1.exe
+C:\Users\Jason\Dropbox\Devry\CIS170Sept12\Huber_Week1\Huber_Week1\bin\Debug\Huber_Week1.pdb
+C:\Users\Jason\Dropbox\Devry\CIS170Sept12\Huber_Week1\Huber_Week1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jason\Dropbox\Devry\CIS170Sept12\Huber_Week1\Huber_Week1\obj\x86\Debug\Huber_Week1.exe
+C:\Users\Jason\Dropbox\Devry\CIS170Sept12\Huber_Week1\Huber_Week1\obj\x86\Debug\Huber_Week1.pdb

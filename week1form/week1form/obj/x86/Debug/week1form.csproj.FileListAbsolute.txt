@@ -1,0 +1,9 @@
+C:\Users\Jason\Dropbox\Devry\CIS170Sept12\week1form\week1form\bin\Debug\week1form.exe
+C:\Users\Jason\Dropbox\Devry\CIS170Sept12\week1form\week1form\bin\Debug\week1form.pdb
+C:\Users\Jason\Dropbox\Devry\CIS170Sept12\week1form\week1form\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jason\Dropbox\Devry\CIS170Sept12\week1form\week1form\obj\x86\Debug\week1form.Form1.resources
+C:\Users\Jason\Dropbox\Devry\CIS170Sept12\week1form\week1form\obj\x86\Debug\week1form.Properties.Resources.resources
+C:\Users\Jason\Dropbox\Devry\CIS170Sept12\week1form\week1form\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Jason\Dropbox\Devry\CIS170Sept12\week1form\week1form\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Jason\Dropbox\Devry\CIS170Sept12\week1form\week1form\obj\x86\Debug\week1form.exe
+C:\Users\Jason\Dropbox\Devry\CIS170Sept12\week1form\week1form\obj\x86\Debug\week1form.pdb
