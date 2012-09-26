@@ -1,0 +1,4 @@
+C:\Users\Jason\Dropbox\Devry\CIS170Sept12\week2\IfsandSwitches\IfsandSwitches\bin\Debug\IfsandSwitches.exe
+C:\Users\Jason\Dropbox\Devry\CIS170Sept12\week2\IfsandSwitches\IfsandSwitches\bin\Debug\IfsandSwitches.pdb
+C:\Users\Jason\Dropbox\Devry\CIS170Sept12\week2\IfsandSwitches\IfsandSwitches\obj\x86\Debug\IfsandSwitches.exe
+C:\Users\Jason\Dropbox\Devry\CIS170Sept12\week2\IfsandSwitches\IfsandSwitches\obj\x86\Debug\IfsandSwitches.pdb

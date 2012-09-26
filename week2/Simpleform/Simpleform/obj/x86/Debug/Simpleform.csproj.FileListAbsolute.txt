@@ -1,0 +1,7 @@
+C:\Users\Jason\Dropbox\Devry\CIS170Sept12\week2\Simpleform\Simpleform\bin\Debug\Simpleform.exe
+C:\Users\Jason\Dropbox\Devry\CIS170Sept12\week2\Simpleform\Simpleform\bin\Debug\Simpleform.pdb
+C:\Users\Jason\Dropbox\Devry\CIS170Sept12\week2\Simpleform\Simpleform\obj\x86\Debug\Simpleform.Form1.resources
+C:\Users\Jason\Dropbox\Devry\CIS170Sept12\week2\Simpleform\Simpleform\obj\x86\Debug\Simpleform.Properties.Resources.resources
+C:\Users\Jason\Dropbox\Devry\CIS170Sept12\week2\Simpleform\Simpleform\obj\x86\Debug\Simpleform.csproj.GenerateResource.Cache
+C:\Users\Jason\Dropbox\Devry\CIS170Sept12\week2\Simpleform\Simpleform\obj\x86\Debug\Simpleform.exe
+C:\Users\Jason\Dropbox\Devry\CIS170Sept12\week2\Simpleform\Simpleform\obj\x86\Debug\Simpleform.pdb
