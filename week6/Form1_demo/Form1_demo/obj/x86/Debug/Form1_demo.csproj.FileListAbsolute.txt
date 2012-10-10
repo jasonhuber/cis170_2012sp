@@ -1,0 +1,7 @@
+C:\Users\Jason\Dropbox\Devry\CIS170Sept12\week6\Form1_demo\Form1_demo\bin\Debug\Form1_demo.exe
+C:\Users\Jason\Dropbox\Devry\CIS170Sept12\week6\Form1_demo\Form1_demo\bin\Debug\Form1_demo.pdb
+C:\Users\Jason\Dropbox\Devry\CIS170Sept12\week6\Form1_demo\Form1_demo\obj\x86\Debug\Form1_demo.Form1.resources
+C:\Users\Jason\Dropbox\Devry\CIS170Sept12\week6\Form1_demo\Form1_demo\obj\x86\Debug\Form1_demo.Properties.Resources.resources
+C:\Users\Jason\Dropbox\Devry\CIS170Sept12\week6\Form1_demo\Form1_demo\obj\x86\Debug\Form1_demo.csproj.GenerateResource.Cache
+C:\Users\Jason\Dropbox\Devry\CIS170Sept12\week6\Form1_demo\Form1_demo\obj\x86\Debug\Form1_demo.exe
+C:\Users\Jason\Dropbox\Devry\CIS170Sept12\week6\Form1_demo\Form1_demo\obj\x86\Debug\Form1_demo.pdb
