@@ -1,0 +1,9 @@
+C:\Users\Jason\Dropbox\Devry\CIS170Sept12\week7\FilesIO\FilesIO\bin\Debug\FilesIO.exe.config
+C:\Users\Jason\Dropbox\Devry\CIS170Sept12\week7\FilesIO\FilesIO\bin\Debug\FilesIO.exe
+C:\Users\Jason\Dropbox\Devry\CIS170Sept12\week7\FilesIO\FilesIO\bin\Debug\FilesIO.pdb
+C:\Users\Jason\Dropbox\Devry\CIS170Sept12\week7\FilesIO\FilesIO\obj\Debug\FilesIO.csprojResolveAssemblyReference.cache
+C:\Users\Jason\Dropbox\Devry\CIS170Sept12\week7\FilesIO\FilesIO\obj\Debug\FilesIO.Form1.resources
+C:\Users\Jason\Dropbox\Devry\CIS170Sept12\week7\FilesIO\FilesIO\obj\Debug\FilesIO.Properties.Resources.resources
+C:\Users\Jason\Dropbox\Devry\CIS170Sept12\week7\FilesIO\FilesIO\obj\Debug\FilesIO.csproj.GenerateResource.Cache
+C:\Users\Jason\Dropbox\Devry\CIS170Sept12\week7\FilesIO\FilesIO\obj\Debug\FilesIO.exe
+C:\Users\Jason\Dropbox\Devry\CIS170Sept12\week7\FilesIO\FilesIO\obj\Debug\FilesIO.pdb

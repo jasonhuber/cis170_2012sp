@@ -1,0 +1,4 @@
+C:\Users\Jason\Dropbox\Devry\CIS170Sept12\week6\deleteme\deleteme\bin\Debug\deleteme.exe
+C:\Users\Jason\Dropbox\Devry\CIS170Sept12\week6\deleteme\deleteme\bin\Debug\deleteme.pdb
+C:\Users\Jason\Dropbox\Devry\CIS170Sept12\week6\deleteme\deleteme\obj\x86\Debug\deleteme.exe
+C:\Users\Jason\Dropbox\Devry\CIS170Sept12\week6\deleteme\deleteme\obj\x86\Debug\deleteme.pdb
